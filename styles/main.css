@@ -9,7 +9,7 @@ body {
   font-family: Sans-Serif;
 
   /* color text */
-  color: #444;
+  color: rgb(218, 180, 57);
 }
 
 h1 {
@@ -31,5 +31,5 @@ h1 {
     Set the container's background color to the same as the scene's
     background to prevent flashing on load
   */
-  background-color: skyblue;
+  background-color: rgb(6, 60, 82);
 }
